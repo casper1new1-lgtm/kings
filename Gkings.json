@@ -1,0 +1,39 @@
+{
+  "allowed_machine_guids": [
+    "6979n875-g123-o724-i968-f4562v22",
+	"2ff25220-3cd0-4c83-bf58-c3b8061ab93b",
+	"548179f3-56ff-4c80-b083-3ef3763b1875",
+	"d3c8a8b4-0642-45e3-98c3-29bc65acaaa0",
+	"5d658408-4da4-4732-b1b8-9ef8ceee0f4a",
+	"120cb92e-158c-4756-a90f-05d80a720da0",
+	"700ae3af-7142-48cf-bcf7-f3cc5b83f17d",
+	"cffc3e3c-7af5-453c-a5ee-ea3654f3231d"
+
+  ],
+  "files": [
+    {
+      "name": "system-eu/lineageeffect.u",
+      "url": "https://github.com/casper1new1-lgtm/kings/raw/refs/heads/main/lineageeffect.u"
+    },
+	{
+      "name": "system-eu/lineageeffect2a.u",
+      "url": "https://github.com/casper1new1-lgtm/kings/raw/refs/heads/main/lineageeffect2a.u"
+    },
+	{
+      "name": "system-eu/lineageskilleffect.u",
+      "url": "https://github.com/casper1new1-lgtm/kings/raw/refs/heads/main/lineageskilleffect.u"
+    },
+	{
+      "name": "system-eu/Skillgrp.dat",
+      "url": "https://github.com/casper1new1-lgtm/kings/raw/refs/heads/main/Skillgrp.dat"
+    },
+	{
+      "name": "system-eu/L2GameDataName.dat",
+      "url": "https://github.com/casper1new1-lgtm/kings/raw/refs/heads/main/L2GameDataName.dat"
+    },
+	{
+      "name": "system-eu/user.ini",
+      "url": "https://github.com/casper1new1-lgtm/kings/raw/refs/heads/main/user.ini"
+    }
+  ]
+}
